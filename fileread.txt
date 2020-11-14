@@ -1,0 +1,8 @@
+AutoHotKey Owoifier Version 1.0.0 
+
+~ Written by Major#3577
+
+{ Press ALT+O to convert text field contents. }
+
+[Credit to CFC & Radiator Springs]
+[Special thanks to Ian for being my rubber ducky]
